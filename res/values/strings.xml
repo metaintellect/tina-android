@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">eRacun</string>
+    <string name="CustomDomainURL">Custom Domain URL</string>
+    <string name="LogIn">Log In</string>
+    <string name="Password">Password</string>
+    <string name="GetMoreInfo">Get More Info</string>
+    <string name="Username">Username</string>
+</resources>
