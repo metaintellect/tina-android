@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.metaintellect.eRacun">
-    <uses-sdk android:targetSdkVersion="17"
-            android:minSdkVersion="11"/>
+          package="com.metaintellect.Tina">
+    <uses-sdk android:targetSdkVersion="15"
+            android:minSdkVersion="10"/>
     <!-- android:icon="@drawable/icon" android:label="@string/app_name" -->
-    <application android:label="@string/app_name" android:icon="@drawable/icon">
+    <application android:label="@string/app_name" android:icon="@drawable/tina" android:name=".utils.Tina">
         <activity android:name=".LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity"/>
+        <activity android:name=".MainActivity" android:label="@string/NewInvoice">
+            android:uiOptions=”splitActionBarWhenNarrow”
+        </activity>
     </application>
 </manifest>

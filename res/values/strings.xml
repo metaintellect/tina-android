@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">eRacun</string>
+    <string name="app_name">Tina</string>
     <string name="CustomDomainURL">Custom Domain URL</string>
     <string name="LogIn">Log In</string>
     <string name="Password">Password</string>
     <string name="GetMoreInfo">Get More Info</string>
     <string name="Username">Username</string>
+    <string name="EnterProductCode">Enter product code</string>
+    <string name="EnterQuantity">Enter quantity</string>
+    <string name="NewInvoice">New Invoice</string>
+    <string name="Save">Save</string>
+    <string name="Settings">Settings</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Total">Total:</string>
+    <string name="SyncProducts">Sync Products</string>
+    <string name="Logout">Logout</string>
+    <string name="InvalidURLTitle">Invalid URL format</string>
+    <string name="InvalidURLMessage">Please enter a valid URL e.g. "http://example.com".</string>
+    <string name="OK">OK</string>
 </resources>

@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<TableLayout
+<LinearLayout
+        android:orientation="vertical"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"
         android:background="#dcdcdc">
-    <TableRow
+    <TextView
             android:layout_width="fill_parent"
-            android:layout_height="fill_parent">
-        <EditText
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/productCodeEditText" android:layout_column="0" android:hint="Enter product code"/>
-    </TableRow>
-    <TableRow
+            android:layout_height="wrap_content"
+            android:id="@+id/productCodeTextView" android:gravity="center" android:textColor="#000000" android:text="Bla"
+            android:layout_marginTop="7dp" android:layout_marginBottom="7dp" android:textSize="17dp"/>
+    <EditText
             android:layout_width="fill_parent"
-            android:layout_height="fill_parent">
-        <EditText
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/quantityEditText" android:layout_column="0" android:hint="Enter quantity"/>
-    </TableRow>
-</TableLayout>
+            android:layout_height="wrap_content"
+            android:id="@+id/productCodeEditText" android:layout_gravity="center"
+            android:hint="@string/EnterProductCode" android:inputType="numberSigned" android:numeric="integer"
+            android:textColor="#000" android:imeOptions="actionNext"/>
+    <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/quantityEditText" android:layout_gravity="center" android:hint="@string/EnterQuantity"
+            android:inputType="numberSigned" android:numeric="integer" android:textColor="#000"
+            android:imeOptions="actionDone"/>
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Total:"
+            android:id="@+id/totalTextView" android:layout_gravity="center" android:background="@drawable/total_bg"
+            android:gravity="center" android:textSize="20dp" android:textStyle="bold"/>
+</LinearLayout>

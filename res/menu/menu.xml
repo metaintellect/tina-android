@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/saveItem"
+          android:title="@string/Save"
+          android:orderInCategory="0"
+          android:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/cancelItem"
+          android:title="@string/Cancel"
+          android:orderInCategory="0"
+          android:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/syncProductsItem"
+          android:title="@string/SyncProducts"
+          android:orderInCategory="0" />
+    <item android:id="@+id/logoutItem"
+          android:title="@string/Logout"
+          android:orderInCategory="0" />
+</menu>
