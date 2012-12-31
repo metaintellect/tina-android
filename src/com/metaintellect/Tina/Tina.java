@@ -1,4 +1,4 @@
-package com.metaintellect.Tina.utils;
+package com.metaintellect.tina;
 
 import android.app.Application;
 import android.content.Context;

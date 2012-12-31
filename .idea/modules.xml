@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Tina.iml" filepath="$PROJECT_DIR$/Tina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActionBarSherlock-4.2.0/ActionBarSherlock-4.2.0.iml" filepath="$PROJECT_DIR$/ActionBarSherlock-4.2.0/ActionBarSherlock-4.2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tina.iml" filepath="$PROJECT_DIR$/tina.iml" />
     </modules>
   </component>
 </project>

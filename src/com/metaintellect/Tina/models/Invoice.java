@@ -1,4 +1,4 @@
-package com.metaintellect.Tina.models;
+package com.metaintellect.tina.models;
 
 
 import java.util.ArrayList;

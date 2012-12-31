@@ -18,4 +18,6 @@
     <string name="InvalidURLTitle">Invalid URL format</string>
     <string name="InvalidURLMessage">Please enter a valid URL e.g. "http://example.com".</string>
     <string name="OK">OK</string>
+    <string name="NoInternetTitle">Internet Connection Error</string>
+    <string name="NoInternetMessage">Please connect to working Internet connection.</string>
 </resources>

@@ -15,7 +15,7 @@
   <component name="AndroidLayoutPreviewToolWindow">
     <option name="state">
       <GlobalState>
-        <option name="device" value="Nexus One" />
+        <option name="device" value="Nexus S" />
         <option name="dockMode" value="car" />
         <option name="nightMode" value="notnight" />
         <option name="targetHashString" value="android-17" />
@@ -24,22 +24,25 @@
       </GlobalState>
     </option>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="DEBUG" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c1cde6f6-714f-474e-984e-5fdf25b56adf" name="Default" comment="" />
     <ignored path="eRacun.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356514545486" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356623179919" ignored="false" />
-    <file path="/LoginActivity.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356623903641" ignored="false" />
+    <file path="/Dummy.txt" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356778766776" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356775553207" ignored="false" />
+    <file path="/LoginActivity.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356913792066" ignored="false" />
     <file path="/menu.xml" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356618225388" ignored="false" />
     <file path="$USER_HOME$/Downloads/AndroidActionBar/AndroidManifest.xml" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356535265124" ignored="false" />
     <file path="$USER_HOME$/Downloads/AndroidActionBar/project.properties" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356535237208" ignored="false" />
     <file path="$USER_HOME$/Downloads/AndroidActionBar/gen/com/exercise/AndroidActionBar/R.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356535425219" ignored="false" />
     <file path="$USER_HOME$/Downloads/AndroidActionBar/gen/com/exercise/AndroidActionBar/Manifest.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356535425219" ignored="false" />
     <file path="$USER_HOME$/Downloads/AndroidActionBar/gen/com/exercise/AndroidActionBar/BuildConfig.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356535425219" ignored="false" />
-    <file path="/MainActivity.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356639478066" ignored="false" />
-    <file path="/fragment.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356654068479" ignored="false" />
-    <file path="/strings.xml" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356654142897" ignored="false" />
+    <file path="/MainActivity.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356804775397" ignored="false" />
+    <file path="/fragment.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356903715443" ignored="false" />
+    <file path="/strings.xml" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356905153742" ignored="false" />
     <file path="$PROJECT_DIR$/gen/com/metaintellect/eRacun/Manifest.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356632329504" ignored="false" />
     <file path="$PROJECT_DIR$/gen/com/metaintellect/eRacun/BuildConfig.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356632329504" ignored="false" />
     <file path="$PROJECT_DIR$/gen/com/metaintellect/eRacun/R.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356633601922" ignored="false" />
@@ -49,11 +52,45 @@
     <file path="/Product.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356638713575" ignored="false" />
     <file path="/eRacun.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356640178036" ignored="false" />
     <file path="/main.xml" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356633016704" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/com/metaintellect/Tina/BuildConfig.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356654484301" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/com/metaintellect/Tina/Manifest.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356653793467" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/com/metaintellect/Tina/R.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356653794790" ignored="false" />
-    <file path="$PROJECT_DIR$/src/com/metaintellect/Tina/utils/JSONParser.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356653785535" ignored="false" />
-    <file path="/a.dummy" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356654127286" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/metaintellect/Tina/BuildConfig.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356810281900" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/metaintellect/Tina/Manifest.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356810281900" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/metaintellect/Tina/R.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356810281900" ignored="false" />
+    <file path="/a.dummy" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356772643568" ignored="false" />
+    <file path="$USER_HOME$/Downloads/Android Multilevel ListView/AndroidMultiLevelListView/AndroidManifest.xml" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356694640007" ignored="false" />
+    <file path="$USER_HOME$/android-sdk-macosx/samples/android-17/ActionBarCompat/AndroidManifest.xml" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356773832793" ignored="false" />
+    <file path="$USER_HOME$/android-sdk-macosx/samples/android-17/ActionBarCompat/src/com/example/android/actionbarcompat/ActionBarActivity.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356771882379" ignored="false" />
+    <file path="$USER_HOME$/android-sdk-macosx/samples/android-17/ActionBarCompat/src/com/example/android/actionbarcompat/ActionBarHelper.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356771882379" ignored="false" />
+    <file path="$USER_HOME$/android-sdk-macosx/samples/android-17/ActionBarCompat/src/com/example/android/actionbarcompat/ActionBarHelperBase.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356771882379" ignored="false" />
+    <file path="$USER_HOME$/android-sdk-macosx/samples/android-17/ActionBarCompat/src/com/example/android/actionbarcompat/ActionBarHelperHoneycomb.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356771882379" ignored="false" />
+    <file path="$USER_HOME$/android-sdk-macosx/samples/android-17/ActionBarCompat/src/com/example/android/actionbarcompat/ActionBarHelperICS.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356771882379" ignored="false" />
+    <file path="$USER_HOME$/android-sdk-macosx/samples/android-17/ActionBarCompat/src/com/example/android/actionbarcompat/MainActivity.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356772522542" ignored="false" />
+    <file path="$USER_HOME$/android-sdk-macosx/samples/android-17/ActionBarCompat/src/com/example/android/actionbarcompat/SimpleMenu.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356771882379" ignored="false" />
+    <file path="$USER_HOME$/android-sdk-macosx/samples/android-17/ActionBarCompat/src/com/example/android/actionbarcompat/SimpleMenuItem.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356771882379" ignored="false" />
+    <file path="$USER_HOME$/android-sdk-macosx/samples/android-17/ActionBarCompat/res/values-v11/styles.xml" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356771882379" ignored="false" />
+    <file path="$USER_HOME$/android-sdk-macosx/samples/android-17/ActionBarCompat/ActionBarCompat.iml" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356773302655" ignored="false" />
+    <file path="$USER_HOME$/android-sdk-macosx/samples/android-17/ActionBarCompat/gen/com/example/android/actionbarcompat/BuildConfig.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356774180765" ignored="false" />
+    <file path="$USER_HOME$/android-sdk-macosx/samples/android-17/ActionBarCompat/gen/com/example/android/actionbarcompat/Manifest.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356774096263" ignored="false" />
+    <file path="$USER_HOME$/android-sdk-macosx/samples/android-17/ActionBarCompat/gen/com/example/android/actionbarcompat/R.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356774180765" ignored="false" />
+    <file path="$PROJECT_DIR$/../ActionBarSherlock-4.2.0/library/project.properties" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356777581421" ignored="false" />
+    <file path="$PROJECT_DIR$/../ABSTest/project.properties" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356777761689" ignored="false" />
+    <file path="$PROJECT_DIR$/../ABSTest/actionbarsherlock/gen/com/actionbarsherlock/Manifest.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356777764899" ignored="false" />
+    <file path="$PROJECT_DIR$/../ABSTest/gen/com/example/Manifest.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356778768306" ignored="false" />
+    <file path="$PROJECT_DIR$/../ABSTest/AndroidManifest.xml" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356779999750" ignored="false" />
+    <file path="$PROJECT_DIR$/libs/ActionBarSherlock-4.2.0/project.properties" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356802140366" ignored="false" />
+    <file path="$PROJECT_DIR$/ActionBarSherlock-4.2.0/src/com/actionbarsherlock/app/SherlockDialogFragment.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356803091536" ignored="false" />
+    <file path="$PROJECT_DIR$/ActionBarSherlock-4.2.0/src/com/actionbarsherlock/app/SherlockFragment.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356803091536" ignored="false" />
+    <file path="$PROJECT_DIR$/ActionBarSherlock-4.2.0/src/com/actionbarsherlock/app/SherlockListFragment.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356803091536" ignored="false" />
+    <file path="$PROJECT_DIR$/ActionBarSherlock-4.2.0/gen/com/actionbarsherlock/R.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356810281900" ignored="false" />
+    <file path="$PROJECT_DIR$/ActionBarSherlock-4.2.0/gen/com/actionbarsherlock/BuildConfig.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356810281900" ignored="false" />
+    <file path="$PROJECT_DIR$/ActionBarSherlock-4.2.0/gen/com/actionbarsherlock/Manifest.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356810281900" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/metaintellect/tina/BuildConfig.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356903451385" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/metaintellect/tina/Manifest.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356912014471" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/metaintellect/tina/R.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356912014471" ignored="false" />
+    <file path="/ConnectionDetector.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356905219818" ignored="false" />
+    <file path="$USER_HOME$/Downloads/SessionsUsingSharedPreferences/gen/com/androidhive/sessions/BuildConfig.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356907338704" ignored="false" />
+    <file path="$USER_HOME$/Downloads/SessionsUsingSharedPreferences/gen/com/androidhive/sessions/R.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356907338704" ignored="false" />
+    <file path="$USER_HOME$/Downloads/Android Multilevel ListView/AndroidMultiLevelListView/src/com/example/androidhive/helper/JSONParser.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356907783737" ignored="false" />
+    <file path="/JSONParser.java" changelist="c1cde6f6-714f-474e-984e-5fdf25b56adf" time="1356912986908" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,36 +110,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/com/metaintellect/Tina/MainActivity.java" line="37" class="com.metaintellect.Tina.MainActivity$1" package="com.metaintellect.Tina">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/metaintellect/Tina/MainActivity.java" line="46" class="com.metaintellect.Tina.MainActivity$1" package="com.metaintellect.Tina">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -137,51 +145,62 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/com/metaintellect/tina/utils/JSONParser.java" line="66" class="com.metaintellect.tina.utils.JSONParser" package="com.metaintellect.tina.utils">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/metaintellect/tina/LoginActivity.java" line="95" class="com.metaintellect.tina.LoginActivity" package="com.metaintellect.tina">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="eRacun" />
+    <favorites_list name="Tina" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="login.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/login.xml">
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state line="20" column="17" selection-start="1071" selection-end="1071" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Product.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/metaintellect/Tina/models/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="18" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LoginActivity.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/metaintellect/Tina/LoginActivity.java">
+        <entry file="file://$PROJECT_DIR$/src/com/metaintellect/tina/LoginActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="65" selection-start="856" selection-end="856" vertical-scroll-proportion="0.24725275">
+            <state line="28" column="78" selection-start="1079" selection-end="1079" vertical-scroll-proportion="-3.677686">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tina.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/metaintellect/Tina/utils/Tina.java">
+      <file leaf-file-name="JSONParser.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/metaintellect/tina/utils/JSONParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="45" column="0" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -189,25 +208,7 @@
       <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="32" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Account.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/metaintellect/Tina/models/Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="24" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="26" selection-start="494" selection-end="496" vertical-scroll-proportion="0.0">
+            <state line="21" column="83" selection-start="1126" selection-end="1126" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -219,16 +220,25 @@
             <state />
           </provider>
           <provider editor-type-id="text-editor">
-            <state line="20" column="48" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.0">
+            <state line="29" column="31" selection-start="1645" selection-end="1645" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/metaintellect/Tina/MainActivity.java">
+        <entry file="file://$PROJECT_DIR$/src/com/metaintellect/tina/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="39" selection-start="1545" selection-end="1545" vertical-scroll-proportion="0.0">
+            <state line="20" column="80" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="58" selection-start="1075" selection-end="1075" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -244,19 +254,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/metaintellect/eRacun/models/InvoiceItem.java" />
-        <option value="$PROJECT_DIR$/src/com/metaintellect/eRacun/models/Invoice.java" />
-        <option value="$PROJECT_DIR$/src/com/metaintellect/eRacun/models/Account.java" />
         <option value="$PROJECT_DIR$/src/com/metaintellect/eRacun/utils/JSONParser.java" />
         <option value="$PROJECT_DIR$/res/menu/menu.xml" />
-        <option value="$PROJECT_DIR$/res/layout/login.xml" />
         <option value="$PROJECT_DIR$/src/com/metaintellect/eRacun/LoginActivity.java" />
         <option value="$PROJECT_DIR$/src/com/metaintellect/eRacun/models/Product.java" />
         <option value="$PROJECT_DIR$/src/com/metaintellect/eRacun/MainActivity.java" />
         <option value="$PROJECT_DIR$/src/com/metaintellect/eRacun/utils/eRacun.java" />
+        <option value="$PROJECT_DIR$/src/com/metaintellect/Tina/utils/Tina.java" />
+        <option value="$PROJECT_DIR$/res/layout/login.xml" />
+        <option value="$PROJECT_DIR$/src/com/metaintellect/Tina/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/metaintellect/Tina/LoginActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/src/com/metaintellect/tina/utils/ConnectionDetector.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/metaintellect/tina/utils/JSONParser.java" />
+        <option value="$PROJECT_DIR$/src/com/metaintellect/tina/LoginActivity.java" />
       </list>
     </option>
   </component>
@@ -292,7 +305,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -325,7 +337,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Tina" />
+              <option name="myItemId" value="tina" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -343,7 +355,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="tina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Tina" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tina-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tina" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -364,6 +398,10 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -378,24 +416,22 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/com/metaintellect/tina" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="preferences.externalTools" />
+    <property name="options.lastSelected" value="preferences.keymap" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/AndroidActionBar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/android-support-v4.jar!/" />
     <property name="AndroidLayoutSelectedEditor" value="android-designer" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -411,7 +447,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/res/drawable" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.metaintellect.tina" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/res/drawable" />
     </key>
   </component>
@@ -537,7 +577,7 @@
       <method />
     </configuration>
     <configuration default="false" name="Tina" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="Tina" />
+      <module name="tina" />
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
@@ -589,31 +629,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="874" extended-state="0" />
+    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39920425" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42838195" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5007278" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.97054595" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.55172414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18005739" sideWeight="0.51193637" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18077475" sideWeight="0.6710875" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.49417758" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18005739" sideWeight="0.571618" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3275862" sideWeight="0.49417758" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12553802" sideWeight="0.6710875" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11621234" sideWeight="0.6710875" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48693758" sideWeight="0.67027026" order="3" side_tool="false" content_ui="tabs" x="391" y="82" width="838" height="740" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21879484" sideWeight="0.6710875" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25862068" sideWeight="0.67027026" order="3" side_tool="false" content_ui="tabs" x="391" y="82" width="838" height="740" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.97054595" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -678,74 +718,37 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/metaintellect/Tina/models/InvoiceItem.java">
+    <entry file="file://$USER_HOME$/Downloads/Android Multilevel ListView/AndroidMultiLevelListView/project.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="84" selection-start="826" selection-end="826" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/metaintellect/Tina/models/Invoice.java">
+    <entry file="file://$PROJECT_DIR$/tina.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="34" selection-start="203" selection-end="203" vertical-scroll-proportion="0.31380752">
-          <folding />
-        </state>
+        <state line="9" column="35" selection-start="405" selection-end="496" vertical-scroll-proportion="0.18543956" />
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/android-sdk-macosx/platforms/android-17/android.jar!/android/text/TextWatcher.class">
+    <entry file="file://$PROJECT_DIR$/src/com/metaintellect/tina/models/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="159" selection-end="159" vertical-scroll-proportion="0.10330579" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/android-sdk-macosx/platforms/android-17/android.jar!/android/text/Editable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="159" selection-end="159" vertical-scroll-proportion="0.10330579" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/menu/menu.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="39" selection-start="653" selection-end="653" vertical-scroll-proportion="0.4707113" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/login.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state line="20" column="17" selection-start="1071" selection-end="1071" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/metaintellect/Tina/models/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="18" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/metaintellect/Tina/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="39" selection-start="1545" selection-end="1545" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/metaintellect/Tina/utils/JSONParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/metaintellect/Tina/utils/Tina.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="18" selection-start="178" selection-end="178" vertical-scroll-proportion="0.18595041" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/menu/menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="40" selection-start="350" selection-end="351" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/login.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="39" selection-start="597" selection-end="597" vertical-scroll-proportion="0.36585367">
           <folding />
         </state>
       </provider>
@@ -755,35 +758,72 @@
         <state />
       </provider>
       <provider editor-type-id="text-editor">
-        <state line="20" column="48" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.0">
+        <state line="29" column="31" selection-start="1645" selection-end="1645" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/metaintellect/tina/utils/ConnectionDetector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="26" selection-start="494" selection-end="496" vertical-scroll-proportion="0.0">
+        <state line="4" column="30" selection-start="141" selection-end="141" vertical-scroll-proportion="0.08264463">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="32" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
+        <state line="21" column="83" selection-start="1126" selection-end="1126" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/metaintellect/Tina/models/Account.java">
+    <entry file="file://$PROJECT_DIR$/src/com/metaintellect/tina/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="24" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0">
+        <state line="20" column="80" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/metaintellect/Tina/LoginActivity.java">
+    <entry file="file://$PROJECT_DIR$/src/com/metaintellect/tina/models/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="65" selection-start="856" selection-end="856" vertical-scroll-proportion="0.24725275">
+        <state line="10" column="24" selection-start="229" selection-end="229" vertical-scroll-proportion="0.20661157">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="58" selection-start="1075" selection-end="1075" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/android-sdk-macosx/platforms/android-17/android.jar!/android/view/View.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/android-sdk-macosx/platforms/android-17/android.jar!/org/apache/http/client/methods/HttpEntityEnclosingRequestBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="16" selection-start="484" selection-end="484" vertical-scroll-proportion="0.36407766">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/metaintellect/tina/utils/JSONParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="0" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/metaintellect/tina/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="78" selection-start="1079" selection-end="1079" vertical-scroll-proportion="-3.677686">
           <folding />
         </state>
       </provider>
@@ -805,7 +845,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Android</last-edited>
+          <last-edited>Android (ActionBarSherlock-4.2.0)|Android</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -840,12 +880,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Tina</last-edited>
+          <last-edited>tina</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -853,6 +892,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>android-support-v4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

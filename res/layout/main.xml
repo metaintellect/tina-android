@@ -27,5 +27,6 @@
             android:layout_height="wrap_content"
             android:text="Total:"
             android:id="@+id/totalTextView" android:layout_gravity="center" android:background="@drawable/total_bg"
-            android:gravity="center" android:textSize="20dp" android:textStyle="bold"/>
+            android:gravity="center" android:textSize="20dp" android:textStyle="bold"
+            android:textColor="#FFF"/>
 </LinearLayout>

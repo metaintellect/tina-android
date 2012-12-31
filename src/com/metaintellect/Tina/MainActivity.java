@@ -1,21 +1,29 @@
-package com.metaintellect.Tina;
+package com.metaintellect.tina;
 
-import android.app.Activity;
 import android.os.Bundle;
 import android.view.KeyEvent;
-import android.view.Menu;
-import android.view.MenuInflater;
 import android.view.View;
 import android.view.inputmethod.EditorInfo;
 import android.widget.EditText;
 import android.widget.TextView;
-import com.metaintellect.Tina.models.Invoice;
+import com.actionbarsherlock.app.SherlockActivity;
+import com.actionbarsherlock.view.Menu;
+import com.actionbarsherlock.view.MenuItem;
+import com.metaintellect.tina.models.Invoice;
 
-public class MainActivity extends Activity {
+public class MainActivity extends SherlockActivity {
 
     private Invoice invoice;
 
     public void onCreate(Bundle savedInstanceState) {
+
+        int theme = R.style.Theme_Sherlock_Light;
+
+        if (android.os.Build.VERSION.SDK_INT >= 15) {
+            theme = R.style.Theme_Sherlock_Light_DarkActionBar;
+        }
+
+        setTheme(theme);
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
@@ -50,11 +58,16 @@ public class MainActivity extends Activity {
         });
     }
 
+    @Override
     public boolean onCreateOptionsMenu(Menu menu) {
+        menu.add(getString(R.string.Save))
+                .setShowAsAction(MenuItem.SHOW_AS_ACTION_IF_ROOM);
 
-        MenuInflater inflater = getMenuInflater();
-        inflater.inflate(R.menu.menu, menu);
+        menu.add(getString(R.string.Cancel))
+                .setShowAsAction(MenuItem.SHOW_AS_ACTION_IF_ROOM);
 
-        return true;
+        menu.add(getString(R.string.SyncProducts));
+        menu.add(getString(R.string.Logout));
+        return super.onCreateOptionsMenu(menu);
     }
 }
